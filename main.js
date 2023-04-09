@@ -106,7 +106,6 @@ let quizIndex = 0;
 let score = 0;
 
 const button = document.getElementsByTagName('button');
-console.log(button)
 const buttonLength = button.length;
 
 const setupQuiz = () => {
